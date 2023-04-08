@@ -1,6 +1,6 @@
 # Portfolio_Code
 ### <Python練習檔案>：資料分析語法練習
-### <時間管理大師>：結合Excel規劃求解、Python Pandas資料分析函式庫，設計
+### <時間管理大師>：Excel規劃求解、Python Pandas資料分析函式庫
 ![image](https://user-images.githubusercontent.com/76078127/230697167-3e16c72f-df66-45ba-afad-ac2a035cf49b.png)
 ![image](https://user-images.githubusercontent.com/76078127/230697180-3b4a8e75-0d07-45bc-9305-a625d2cfcd76.png)
 
